@@ -3,7 +3,7 @@
 
 namespace Kunstwerken;
 
-class Foto extends KunstwerkenAbstract
+class Dans extends KunstwerkenAbstract
 {
   public $afbeelding;
 
